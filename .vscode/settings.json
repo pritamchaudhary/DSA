@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "xlocale": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "iostream": "cpp"
     }
 }
