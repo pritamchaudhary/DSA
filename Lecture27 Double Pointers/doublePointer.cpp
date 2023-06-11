@@ -18,5 +18,5 @@ int main(){
     cout<< p <<endl;
     cout<< *p2 << endl;
 
-    return 0;
+    return 0; 
 }
